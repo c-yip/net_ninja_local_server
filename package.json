@@ -1,0 +1,24 @@
+{
+  "name": "net_ninja_local_server",
+  "version": "1.0.0",
+  "description": "Exercise from The Net Ninja's YouTube channel tackling how to set up a local server with raw Node.js.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c-yip/net_ninja_local_server.git"
+  },
+  "author": "Christian Yip",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/c-yip/net_ninja_local_server/issues"
+  },
+  "homepage": "https://github.com/c-yip/net_ninja_local_server#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "lodash": "^4.17.21"
+  }
+}
